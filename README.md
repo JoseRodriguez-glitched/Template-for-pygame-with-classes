@@ -9,3 +9,5 @@ Si quieres que sea un ejemplo mas grande puedes dejar una estrella para saberlo.
 - Jugador simple.
 - Propagación de eventos.
 - Movimiento básico, etc.
+
+Tambien puedes dejar una sugerencia.
